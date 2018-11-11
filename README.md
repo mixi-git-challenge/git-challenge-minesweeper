@@ -8,7 +8,7 @@
 `master` ブランチの祖先の commit に、壊れた CSV ファイルが含まれないようにしてください。
 ただし、CSV を壊した commit とその修正の commit 以外の履歴を書き換えてはいけません。
 
-CSV が壊れていかどうかは、`checker.pl`によって検証できます。
+CSV が壊れているかどうかは、`checker.pl`によって検証できます。
 この `checker.pl` は、ダウンロードリンクか `checker` ブランチから入手してください。
 
 - [`checker.pl` のダウンロードリンク](https://www.dropbox.com/s/0nppkn5gsju2ja9/git-challenge-minesweeper-checker.pl?dl=1)
